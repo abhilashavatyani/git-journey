@@ -1,6 +1,2 @@
 one
-<<<<<<< HEAD
 1
-=======
-1 Development
->>>>>>> development
